@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/33f76911a41b92d6e901a1abd86d7a9e_4-663_stat-students.png
+file: /media/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/33f76911a41b92d6e901a1abd86d7a9e_4-663_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 4-663_stat-students.png
 uid: 33f76911-a41b-92d6-e901-a1abd86d7a9e

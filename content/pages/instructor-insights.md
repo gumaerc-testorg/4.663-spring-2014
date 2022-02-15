@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: e324b1f9-4206-2bbc-a0f8-684298609eca
 ---
@@ -46,20 +48,6 @@ May be applied toward a PhD in [History and Theory of Architecture or Art](http:
 ### Offered
 
 Every other spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with 14 red chairs arranged around tables in a rectangular position. A blackboard runs along wall. Floor to ceiling windows.]({{< resource_file 19b32128-bd04-c66e-b533-faef7165140d >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Students attended seminars in a classroom containing movable furniture, a blackboard, and an LCD projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
