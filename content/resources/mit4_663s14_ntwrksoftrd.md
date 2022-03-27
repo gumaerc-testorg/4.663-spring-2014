@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: f6e1c4c9-34e8-9906-e3ea-82ebf240408f
 resourcetype: Document
 title: 'Networks of Trade and Surveillance: the Case of the Fondaco'
 uid: 173caaa6-9f41-a3cd-bb1d-020ae841752f

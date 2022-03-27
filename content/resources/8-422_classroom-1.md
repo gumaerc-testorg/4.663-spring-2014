@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 81668c96-b9f6-2526-f2fe-53706ac246b1
 resourcetype: Image
 title: 8-422_classroom-1.jpg
 uid: 86d785b0-9321-2cd1-3633-1b21c2a60f3f

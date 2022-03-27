@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: f6e1c4c9-34e8-9906-e3ea-82ebf240408f
 resourcetype: Document
 title: Early Modern Urbanization and Marketplaces and an Architecture of Trade
 uid: 5bd8585c-4879-fd0f-4a43-67eaa951f2d8

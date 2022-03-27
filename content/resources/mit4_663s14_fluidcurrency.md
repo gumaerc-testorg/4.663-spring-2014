@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: f6e1c4c9-34e8-9906-e3ea-82ebf240408f
 resourcetype: Document
 title: 'Fluid Currency:  The Political Economy of Hydrology in Baroque Rome'
 uid: ec767d2f-ddd7-eb53-5d33-2ebe9d0a65dd
