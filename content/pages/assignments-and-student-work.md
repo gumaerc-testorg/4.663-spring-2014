@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments and Student Work
 uid: f6e1c4c9-34e8-9906-e3ea-82ebf240408f
 ---
@@ -16,9 +17,9 @@ For most class sessions, we will have a rotating core group that is comprised of
 
 ### Example Response Papers
 
-["Networks of Trade and Surveillance: The Case of the _Fondaco_" (PDF)]({{< baseurl >}}/resources/mit4_663s14_ntwrksoftrd) by an MIT Student
+{{< resource_link 173caaa6-9f41-a3cd-bb1d-020ae841752f "\"Networks of Trade and Surveillance: The Case of the _Fondaco_\" (PDF)" >}} by an MIT Student
 
-["Early Modern Urbanization and Marketplaces and an Architecture of Trade" (PDF)]({{< baseurl >}}/resources/mit4_663s14_erlymdrnurban) by an MIT Student
+{{< resource_link 5bd8585c-4879-fd0f-4a43-67eaa951f2d8 "\"Early Modern Urbanization and Marketplaces and an Architecture of Trade\" (PDF)" >}} by an MIT Student
 
 Final Presentation
 ------------------
@@ -32,6 +33,6 @@ You will submit a 15-page paper (excluding footnotes, bibliography and illustrat
 
 ### Example Final Papers
 
-["Marking the Water: Territoriality, Fortifications, and Port Cities in Early Modern Italy" (PDF)]({{< baseurl >}}/resources/mit4_663s14_markthewater) by an MIT Student
+{{< resource_link e07e7fb9-1125-fb89-3669-5e7e252e56a4 "\"Marking the Water: Territoriality, Fortifications, and Port Cities in Early Modern Italy\" (PDF)" >}} by an MIT Student
 
-["Fluid Currency: The Political Economy of Hydrology in Baroque Rome" (PDF - 1.3MB)]({{< baseurl >}}/resources/mit4_663s14_fluidcurrency) by an MIT Student
+{{< resource_link ec767d2f-ddd7-eb53-5d33-2ebe9d0a65dd "\"Fluid Currency: The Political Economy of Hydrology in Baroque Rome\" (PDF - 1.3MB)" >}} by an MIT Student
