@@ -6,6 +6,7 @@ file: /courses/4-663-history-of-urban-form-locating-capitalism-producing-early-m
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Early Modern Urbanization and Marketplaces and an Architecture of Trade
 uid: 5bd8585c-4879-fd0f-4a43-67eaa951f2d8
 ---
 This resource contains information regarding Early Modern Urbanization and Marketplaces and an Architecture of Trade.
-

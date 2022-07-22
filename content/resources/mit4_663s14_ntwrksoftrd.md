@@ -6,6 +6,7 @@ file: /courses/4-663-history-of-urban-form-locating-capitalism-producing-early-m
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Networks of Trade and Surveillance: the Case of the Fondaco'
 uid: 173caaa6-9f41-a3cd-bb1d-020ae841752f
 ---
 This resource contains information regarding Networks of Trade and Surveillance: the Case of the Fondaco.
-

@@ -6,6 +6,7 @@ file: /courses/4-663-history-of-urban-form-locating-capitalism-producing-early-m
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Marking the Water: Territoriality, Fortifications and Port Cities in Ear
 uid: e07e7fb9-1125-fb89-3669-5e7e252e56a4
 ---
 This is a resource file that contains information regarding marking the water: territoriality, fortifications and port cities in early modern.
-

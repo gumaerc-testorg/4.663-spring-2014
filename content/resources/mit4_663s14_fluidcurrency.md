@@ -6,6 +6,7 @@ file: /courses/4-663-history-of-urban-form-locating-capitalism-producing-early-m
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Fluid Currency:  The Political Economy of Hydrology in Baroque Rome'
 uid: ec767d2f-ddd7-eb53-5d33-2ebe9d0a65dd
 ---
 This resource contains information regarding Fluid Currency:  The Political Economy of Hydrology in Baroque Rome.
-
