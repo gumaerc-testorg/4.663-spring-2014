@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations and links to the readings assigned for
+  each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 181a76e7-397f-2d34-cb07-2fcae5fe0d16
 ---
@@ -92,7 +97,7 @@ Little, Lester. "Adapting to the Profit Economy." In _Religious Poverty and the 
 
 Trachtenberg, Marvin. _Building in Time: From Giotto to Alberti and Modern Oblivion_. Yale University Press, 2010, pp. 25–101. ISBN: 9780300165920.
 
-Nelson, Jonathan Katz, and Richard J. Zeckhauser. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Renaissance Instrument to Support Nonprofits: The Sale of Private Chapels in Florentine Churches." (PDF)](http://www.nber.org/chapters/c9969.pdf) In _The Governance of Not-for-Profit Organizations_. Edited by Edward L. Glaeser. University of Chicago Press, 2003. ISBN: 9780226297859.
+Nelson, Jonathan Katz, and Richard J. Zeckhauser. ["A Renaissance Instrument to Support Nonprofits: The Sale of Private Chapels in Florentine Churches." (PDF)](http://www.nber.org/chapters/c9969.pdf) In _The Governance of Not-for-Profit Organizations_. Edited by Edward L. Glaeser. University of Chicago Press, 2003. ISBN: 9780226297859.
 
 
 {{< tdclose >}}
@@ -138,7 +143,7 @@ Goldthwaite, Richard A. "The Reason for Building: Needs and Taste" & "The Result
 
 Friedman, David. "Palaces and the Street in Late Medieval and Renaissance Italy." In _Urban Landscape: International Perspectives_. Edited by J. Whitehand and P. Larkin. Routledge, 1992. ISBN: 9780415070744. \[Preview with [Google Books](http://books.google.com/books?id=E4oElpcDld0C&pg=PA69#v=onepage)\]
 
-Kohn, Meir. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Finance Before the Industrial Revolution: An Introduction." (PDF)](http://sites.dartmouth.edu/mkohn/files/2017/03/99-01.pdf) In _The Origins of Western Economic Success: Commerce, Finance, and Government in Preindustrial Europe_. Book Manuscript, 1999.  
+Kohn, Meir. ["Finance Before the Industrial Revolution: An Introduction." (PDF)](http://sites.dartmouth.edu/mkohn/files/2017/03/99-01.pdf) In _The Origins of Western Economic Success: Commerce, Finance, and Government in Preindustrial Europe_. Book Manuscript, 1999.  
 [http://www.dartmouth.edu/~mkohn/orgins.html](http://www.dartmouth.edu/~mkohn/orgins.html)
 
 Puglisi, Catherine, and William Barcham. "[Bernardino da Feltre, the Monte di Pietà and the Man of Sorrows: Activist, Microcredit and Logo](http://www.jstor.org/stable/40343649)." _Artibus et Historiae_ 29, no. 58 (2008): 35–63.
@@ -233,7 +238,7 @@ Guilds as Economic Organizations and Corporate Patrons
 
 Gustafsson, Bo. "The Rise and Economic Behaviour of Medieval Craft Guilds." In _Power and Economic Institutions: Reinterpretations in Economic History_. Edited by Bo Gustafsson. Edward Elgar Publication, 1991. ISBN: 9781852783976.
 
-Hickson, Charles R., and Earl A. Thompson. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A New Theory of Guilds and European Economic Development." (PDF - 3.0MB)](https://www.sciencedirect.com/science/article/pii/001449839190015B) _Explorations in Economic History_ 28, no. 2 (1991): 127–68.
+Hickson, Charles R., and Earl A. Thompson. ["A New Theory of Guilds and European Economic Development." (PDF - 3.0MB)](https://www.sciencedirect.com/science/article/pii/001449839190015B) _Explorations in Economic History_ 28, no. 2 (1991): 127–68.
 
 North, Douglass C. "Structure and Change in Early Modern Europe." In _Structure and Change in Economic History._ W. W. Norton & Company, 1982. ISBN: 9780393952414.
 
