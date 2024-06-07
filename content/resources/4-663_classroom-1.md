@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/19b32128bd04c66eb533faef7165140d_4-663_classroom-1.jpg
+file_size: 51465
 file_type: image/jpeg
 image_metadata:
   caption: ''
