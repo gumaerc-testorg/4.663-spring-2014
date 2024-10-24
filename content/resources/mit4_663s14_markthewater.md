@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding marking
   the water: territoriality, fortifications and port cities in early modern.'
-file: /courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/e07e7fb91125fb8936695e7e252e56a4_MIT4_663S14_Markthewater.pdf
+file: /ol-ocw-studio-app/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/e07e7fb91125fb8936695e7e252e56a4_MIT4_663S14_Markthewater.pdf
 file_size: 824406
 file_type: application/pdf
 learning_resource_types:
