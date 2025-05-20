@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/33f76911a41b92d6e901a1abd86d7a9e_4-663_stat-students.png
+file: /courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/33f76911a41b92d6e901a1abd86d7a9e_4-663_stat-students.png
 file_size: 2741
 file_type: image/png
 image_metadata:
