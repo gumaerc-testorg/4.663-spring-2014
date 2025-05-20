@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding Networks of Trade and Surveillance:
   the Case of the Fondaco.'
-file: /ol-ocw-studio-app/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/173caaa69f41a3cdbb1d020ae841752f_MIT4_663S14_NtwrksofTrd.pdf
+file: /courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/173caaa69f41a3cdbb1d020ae841752f_MIT4_663S14_NtwrksofTrd.pdf
 file_size: 174134
 file_type: application/pdf
 learning_resource_types:
